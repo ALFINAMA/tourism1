@@ -1,0 +1,79 @@
+.bg {
+    /* The image used */
+    background-image: url("https://media.istockphoto.com/id/1227497213/photo/houseboat-on-vembanad-lake-at-sunset-in-kumarakom-kerala-india.jpg?s=612x612&w=0&k=20&c=cM_3EAdxF4Ysb6oUhO94T6CdTiFcf5K0_ujVwiQIs8E=");
+  
+    /* Full height */
+    height: 100%; 
+    min-height: 750px; 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    display: block;
+    float: left;
+    min-height: 750px;
+    position: relative;
+    overflow: hidden;
+    background-color: #000;
+  }
+  .icon{
+    margin: 2rem;
+  }
+  /* .rounded-icon {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: #25D366;
+  color: white;
+} */
+.section-head {
+    margin: 0 0 2.5% 0;
+}
+.tag-head{
+    font-size: 20px;
+    line-height: 1em;
+   margin-top: 19px;
+}
+.tag-div{
+    margin:'3rem'
+}
+
+
+.video-overlay {
+    position: absolute;
+    z-index: 200;
+    top: 45%;
+    width: 100%;
+    left: 0;
+    color: #FFF;
+    text-align: center;
+}
+.video-overlay a {
+  color: #FFF;
+  text-decoration: none;
+}
+.video-overlay .text2 {
+  font-size: 30px;
+  font-weight: 500;
+  padding: 10px 20px;
+  border: 1px solid #FFF;
+  display: inline-block;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+.video-overlay .sub-text2 {
+  font-size: 18px;
+  
+  padding: 10px;
+  display: block;
+  width: 100%;
+  font-weight: bold;
+}
+
+
+
+
+

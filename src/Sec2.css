@@ -1,0 +1,56 @@
+.section-head h2{
+    margin: 2rem !important;
+    color: #036;
+}
+.col{
+ width: 25%;
+ position: relative;
+
+}
+.exp-img{
+    width:100%;
+    padding: 1px;
+   
+}
+.exp-img-sps{
+        /* font-family: 'Lobster', cursive; */
+        font-family: 'Oswald', sans-serif;
+        font-weight: 300;
+        text-transform: uppercase;
+        letter-spacing: -0.06px;
+        line-height: 28px;
+        font-size: 25px;
+        position: absolute;
+        bottom: 0;
+        /* background-color: rgba(255,255,255, .7); */
+        text-shadow: 1px 2px 0 rgba(0, 0, 0, .8);
+        left: 0;
+        text-align: center;
+        margin: 0 auto;
+        color: #fff;
+        z-index: 10;
+        padding-bottom: 70px;
+        width: 100%;
+}
+.Touch{
+    /* background-color: #d7681a; */
+    /* background: linear-gradient(95.04deg,#180243 .82%,#110a70 97.35%);
+    font-weight: 500;
+    color: #fff;
+    margin: 30px; */
+    min-width: 180px;
+    padding: 10px 20px;
+    background-color: #036;
+    color: #fff;
+    margin: 2.5%;
+    display: inline-block;
+    text-decoration: none;
+    
+  }
+  .Touch:hover{
+    background: #314687;
+    font-weight: 500;
+    color: #fff;
+  
+    /* transition: all  1s; */
+  }

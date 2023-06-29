@@ -1,0 +1,49 @@
+.footer-icons {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    
+}
+.footer-icons li {
+    list-style: none;
+    margin: 0 20px;
+    display: inline-block;
+}
+.footer-icons li a {
+   
+    text-decoration: none;
+}
+.footer-icons li i {
+    display: inline-block;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border-top-right-radius: 80px;
+    border-top-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+    border-bottom-left-radius: 80px;
+  
+    color: #ffffff;
+    cursor: pointer;
+    line-height: 40px;
+    font-size: 30px;
+    
+    text-align: center;
+}
+.footer-icons li .hotel img {
+  scale: 1;
+  margin-top: 20px;
+    
+}
+
+
+/* .travel-icons li a .caption {
+    color: #036;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 10px 0;
+    display: block;
+    text-align: center;
+    letter-spacing: -0.5px;
+} */
