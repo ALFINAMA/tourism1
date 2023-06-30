@@ -2,13 +2,13 @@ import React from 'react'
 import './sec8.css'
 function Section8() {
   return (
-    <div id='#plan-trip' style={{marginBottom:'60px'}} >
+    <div style={{marginBottom:'60px'}} >
          <div className='col-md-12 section-head'>
             <h2>Plan Your Trip</h2>
             <span className='sub-head'></span>
         </div>
         <div className='container travel-icons'>
-            <ul>
+            <ul id='plan-trip'>
              
         <li><a href='https://www.keralatourism.org/where-to-stay/'><i className='hotel'>
                         <img className='' src='https://www.keralatourism.org/images/kt/tr-icon-hotel.png'>
