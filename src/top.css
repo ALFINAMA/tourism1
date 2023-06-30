@@ -117,7 +117,7 @@ list-style: none;
 }
 
 .navbar-menu {
-  display: none;
+  display: none !important;
   cursor: pointer;
   
 }
@@ -174,7 +174,7 @@ list-style: none;
 }
 
 .navbar-menu{
-  display: block;
+  display: block !important;
   position: absolute;
   top: 5%;
   right: 5%;
